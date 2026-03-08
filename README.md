@@ -21,4 +21,21 @@ The user-facing dashboard for Fin-Track, a modern personal finance and subscript
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/AsanI2003/fin-track-frontend.git](https://github.com/AsanI2003/fin-track-frontend.git)
-   cd fin-track-frontend
+   cd fin-track-frontend <br> <br>
+Install dependencies: <br>
+npm install <br> <br>
+
+Configure Environment: <br>
+Create a .env file in the root:<br>
+VITE_API_BASE_URL=http://localhost:5000/api  <br> <br>
+
+Run the development server:   <br>
+npm run dev    <br>  <br> 
+
+Project Structure  <br> 
+src/  <br> 
+├── components/   # Reusable UI components (Buttons, Inputs, Cards)  <br> 
+├── hooks/        # Custom hooks for API calls and logic <br> 
+├── pages/        # Dashboard, Login, Signup, Transactions <br> 
+├── services/     # API integration logic using Axios <br> 
+└── utils/        # Formatting and helper functions <br>  <br> 
