@@ -21,7 +21,7 @@ The user-facing dashboard for Fin-Track, a modern personal finance and subscript
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/AsanI2003/fin-track-frontend.git](https://github.com/AsanI2003/fin-track-frontend.git)
-   cd fin-track-frontend <br> <br>
+   cd fin-track-frontend 
 Install dependencies: <br>
 npm install <br> <br>
 
