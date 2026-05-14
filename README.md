@@ -9,7 +9,8 @@ The user-facing dashboard for Fin-Track, a modern personal finance and subscript
 
 
 # FinTrack AI
-<img width="935" height="401" alt="Screenshot 2026-05-14 135916" src="https://github.com/user-attachments/assets/9fe438de-b28c-407c-a6be-f61e5504729b" />
+<img width="893" height="404" alt="Screenshot 2026-05-14 140903" src="https://github.com/user-attachments/assets/2229b93d-0965-4c9e-8980-21b26e01cba7" />
+
 
 
 ## Features
