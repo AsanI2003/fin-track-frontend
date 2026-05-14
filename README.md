@@ -20,14 +20,14 @@ The user-facing dashboard for Fin-Track, a modern personal finance and subscript
 - **Responsive UI**: Optimized for mobile and desktop using Tailwind CSS.
 - **Secure Auth**: Integration with JWT-based authentication flows.
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Library**: React.js (Vite)
 - **Styling**: Tailwind CSS
 - **State Management**: Context API / Zustand
 - **Data Fetching**: Axios
 - **Icons & UI**: Lucide React / Shadcn UI
 
-## 📦 Getting Started
+## Getting Started
 
 1. **Clone the repository:**
    ```bash
